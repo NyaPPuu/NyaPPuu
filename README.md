@@ -28,7 +28,7 @@
 </p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mNyappu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mNyappu&show_icons=true&theme=monokai&hide_border=true" /></a>
-  <!--<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mNyappu&layout=compact&theme=monokai&hide_border=true" /></a>-->
+  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mNyappu&layout=compact&theme=monokai&hide_border=true" /></a>
 </p>
 <br />
 
