@@ -1,4 +1,5 @@
 ## 📊 Stats
+<!-- https://badges.pages.dev/ -->
 <p>
 	<a href="https://github.com/search?q=user%3ANyaPPuu+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=flat-square" style="height: 20px;"></a>
 	<a href="https://github.com/search?q=user%3ANyaPPuu+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=flat-square" style="height: 20px;"></a>
@@ -10,9 +11,14 @@
 	<a href="https://github.com/search?q=user%3ANyaPPuu+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white&style=flat-square" style="height: 20px;"></a>
 	<a href="https://github.com/search?q=user%3ANyaPPuu+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=flat-square" style="height: 20px;"></a>
 </p>
-
 <p>
 	<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=flat-square" style="height: 20px;"></a>
+	<a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat-square" style="height: 20px;"></a>
+	<a href="#"><img alt="esbuild" src="https://img.shields.io/badge/esbuild-FFCF00?logo=esbuild&logoColor=000&style=flat-square" style="height: 20px;"></a>
+	<a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat-square" style="height: 20px;"></a>
+</p>
+
+<p>
 	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=flat-square" style="height: 20px;"></a>
 	<a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white&style=flat-square" style="height: 20px;"></a>
 	<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white&style=flat-square" style="height: 20px;"></a>
