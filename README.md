@@ -41,4 +41,4 @@
 
 
 ## 🎮 Lost Ark
-<img src="https://img.shields.io/badge/Region-Korea-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Server-Kazeros-red?style=flat-square" /> <img src="https://img.shields.io/badge/Class-Artist-ff69b4?style=flat-square" /> <img src="https://img.shields.io/badge/Level-1590-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Region-Korea-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Server-Kazeros-red?style=flat-square" /> <img src="https://img.shields.io/badge/Class-Artist-ff69b4?style=flat-square" /> <img src="https://img.shields.io/badge/Level-1600-lightgrey?style=flat-square" />
